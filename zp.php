@@ -1,6 +1,6 @@
 <?php
 // Define the directory to compress and the output ZIP file name
-$dirToZip = '../../../public_html'; 
+$dirToZip = '../../'; 
 $zipFileName = 'downloaded_archive.zip';
 
 // 1. Validate that the directory exists
